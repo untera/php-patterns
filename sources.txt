@@ -1,0 +1,11 @@
+http://sourcemaking.com/design_patterns
+
+http://martinfowler.com/eaaCatalog/
+
+https://github.com/zfcampus/zendcon-design-patterns
+
+http://en.wikipedia.org/wiki/Factory_method_pattern
+
+
+
+

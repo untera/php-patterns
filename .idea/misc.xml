@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpServers">
+    <option name="servers">
+      <server deployment_server="e8d7a2d6-1ce9-41f6-ba18-5cb0d12d5aa4" host="127.0.0.1" name="localhost" validation_dir="$PROJECT_DIR$/../api" />
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+
